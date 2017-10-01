@@ -28,6 +28,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:text="HOLA"
+        android:textColor="@android:color/holo_red_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.317"
         app:layout_constraintLeft_toLeftOf="parent"
